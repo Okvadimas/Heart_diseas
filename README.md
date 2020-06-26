@@ -1,2 +1,2 @@
 # Heart_diseas
-Predictin of heart disease
+Prediction of heart disease with Machine Learning
